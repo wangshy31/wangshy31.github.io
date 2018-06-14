@@ -17,10 +17,10 @@
 
     <title>Typing</title>
     <description>Typing - A Theme for Jekyll</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jun 2018 13:28:46 +0800</pubDate>
-    <lastBuildDate>Thu, 14 Jun 2018 13:28:46 +0800</lastBuildDate>
+    <link>https://wangshy31.github.io/</link>
+    <atom:link href="https://wangshy31.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jun 2018 15:03:09 +0800</pubDate>
+    <lastBuildDate>Thu, 14 Jun 2018 15:03:09 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>
